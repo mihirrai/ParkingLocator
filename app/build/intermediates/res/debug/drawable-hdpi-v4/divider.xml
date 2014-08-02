@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <size android:width="1dip" />
+    <solid android:color="@android:color/darker_gray" />
+
+</shape><!-- From: file:/C:/Users/Mihir/AndroidStudioProjects/ParkingLocator/app/src/main/res/drawable-hdpi/divider.xml -->

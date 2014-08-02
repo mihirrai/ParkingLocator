@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Mihir\AndroidStudioProjects\ParkingLocator\app\build\intermediates\pre-dexed\debug\classes-38a6b54d34757391d4d1cc443c70f9c3d6e0781f.jar"
+        jar="C:\Users\Mihir\AndroidStudioProjects\ParkingLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="C:\Users\Mihir\AndroidStudioProjects\ParkingLocator\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Mihir\AndroidStudioProjects\ParkingLocator\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-8fc6b59062b1827fba5515947add4b2af3a487d7.jar"
+        jar="C:\Users\Mihir\AndroidStudioProjects\ParkingLocator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Mihir\AndroidStudioProjects\ParkingLocator\app\build\intermediates\pre-dexed\debug\classes-8d7cd0cd47d006e36fb70c6ffa4beac7f37e9b32.jar"
+        jar="C:\Users\Mihir\AndroidStudioProjects\ParkingLocator\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
